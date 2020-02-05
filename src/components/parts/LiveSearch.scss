@@ -1,0 +1,29 @@
+.college-search {
+    &-container {
+        flex-grow: 1;
+        position: relative;
+    }
+
+    &-paper {
+        position: absolute;
+        z-index: 1;
+        margin-top: 1rem;
+        left: 0;
+        right: 0;
+        max-height: calc(48px * 5);
+        overflow: scroll;
+    }
+
+    &-chip {
+        margin: 0.5rem 0.25rem;
+    }
+
+    &-inputRoot {
+        flex-wrap: wrap;
+    }
+
+    &-inputInput {
+        width: auto !important;
+        flex-grow: 1;
+    }
+}

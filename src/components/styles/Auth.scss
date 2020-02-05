@@ -1,0 +1,95 @@
+.auth {
+    background-image: url('./../../images/Loginimg.jpg');
+    min-height: 100vh;
+    min-width: 100vw;
+    padding: 60px 0;
+    background-position: 0 0;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @media (max-width: 425px) {
+        padding-top: 100px;
+        padding-bottom: 20px;
+    }
+
+    &.signup {
+        form {
+            min-width: 400px;
+            max-width: 400px;
+
+            @media (max-width: 400px) {
+                min-width: 85vw;
+                max-width: unset;
+            }
+        }
+    }
+
+    form {
+        min-width: 300px;
+        max-width: 300px;
+        background-color: white;
+
+        @media (max-width: 400px) {
+            min-width: 85vw;
+            max-width: unset;
+        }
+
+        .form-control {
+            padding: 0.75rem 0.75rem;
+            height: calc(1.5em + 1.5rem + 2px);
+            border: 1px solid rgba(155, 155, 155, 1);
+            border-radius: 8px;
+            box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+        }
+
+        .btn {
+            border-width: 2px;
+            min-width: 200px;
+        }
+    }
+
+    &-brands {
+        ul {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            li {
+                margin: 0 0.25rem;
+                color: white;
+            }
+        }
+    }
+}
+
+.card-form-main {
+    display: flex;
+    align-items: center;
+    min-width: 80%;
+
+    @media only screen and (max-width: 767px) {
+        flex-direction: column;
+    }
+
+    &-left {
+        margin-right: 2rem;
+        padding-right: 2rem;
+        border-right: 1px solid lightgray;
+
+        @media only screen and (max-width: 767px) {
+            margin-right: 0;
+            padding-right: 0;
+            border-right: none;
+
+            margin-bottom: 1rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid lightgray;
+        }
+    }
+}

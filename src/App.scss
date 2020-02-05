@@ -1,0 +1,70 @@
+$theme-colors: (
+    'secondary': #6a00b1,
+);
+
+@import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500|Montserrat:300,400,500,600');
+@import '~react-redux-toastr/src/styles/index';
+
+html,
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.no-button {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+.btn-linkedin {
+    width: 48px;
+    height: 48px;
+    img {
+        border-radius: 5px;
+    }
+}
+
+.logo-on-mobile {
+    width: 50px;
+    height: 44px;
+    display: none;
+}
+
+.btn-custom {
+    font-size: 0.9375rem;
+    font-weight: bold;
+    border-radius: 0;
+    padding: 0.625em 1.9375em;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.logo-on-desktop {
+    display: inline-block;
+}
+.show-on-mobile {
+    display: none;
+}
+
+.m-right20 {
+    margin-right: 20px;
+}
+
+@media only screen and (max-width: 968px) {
+    .logo-on-desktop,
+    .hide-on-mobile {
+        display: none !important;
+    }
+    .logo-on-mobile,
+    .show-on-mobile {
+        display: inline-block !important;
+    }
+    .navbar .btn-custom {
+        padding: 0.625em 1em !important;
+    }
+}

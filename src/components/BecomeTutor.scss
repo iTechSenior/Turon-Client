@@ -1,0 +1,68 @@
+.become-tutor {
+    font-family: 'Ubuntu';
+    color: black;
+
+    label {
+        font-size: 1.1rem;
+    }
+
+    .form-check label {
+        font-size: 1rem;
+    }
+
+    .table {
+        min-width: 100%;
+
+        & tr,
+        & th,
+        & td {
+            white-space: nowrap;
+        }
+    }
+
+    .days-graph {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0.5rem 0;
+
+        & div:first-child {
+            flex: 0 0 20%;
+            max-width: 20%;
+        }
+    }
+
+    .price-picker {
+        min-width: 400px;
+        max-width: 400px;
+
+        h3 {
+            padding: 1rem 1.5rem;
+            font-size: 1.25rem;
+            margin-bottom: 0;
+        }
+
+        .dropdown {
+            &-item {
+                &:hover,
+                &:active {
+                    background-color: #fafafa;
+                    cursor: pointer;
+                }
+
+                border-bottom: 1px solid lightgray;
+                font-size: 1rem;
+                color: black;
+
+                &:last-child {
+                    border-bottom: none;
+                }
+
+                p {
+                    white-space: pre-wrap;
+                    font-size: 0.85rem;
+                }
+            }
+        }
+    }
+}

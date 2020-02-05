@@ -1,0 +1,249 @@
+.partner-with-turon-navbar {
+    &.bg-transparent {
+        background-color: #212529 !important;
+    }
+    z-index: 999999;
+}
+.btn-custom {
+    font-size: 0.9375rem;
+    font-weight: bold;
+    border-radius: 0;
+    padding: 0.625em 1.9375em;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.btn-empty {
+    font-size: 0.9375rem;
+    font-weight: bold;
+    border-radius: 0;
+    padding: 0.625em 1.9375em;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    box-shadow: none;
+
+    &:hover,
+    &:active,
+    &:focus {
+        background-color: transparent !important;
+        box-shadow: none !important;
+        outline: none !important;
+    }
+}
+
+.partner-with-turon {
+    &-hero {
+        background-image: url('./../../images/partner-with-turon.jpg');
+        background-repeat: no-repeat;
+        min-width: 100%;
+        min-height: 100vh;
+        background-position: 0 0;
+        background-size: 100% auto;
+        color: white;
+        display: flex;
+        align-items: center;
+        background-size: cover;
+
+        @media only screen and (max-width: 500px) {
+            min-height: 100vh;
+            background-size: auto 100%;
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+
+        &-description {
+            display: inline-block;
+            padding-top: 100px;
+            text-align: center;
+            width: auto;
+            margin-left: 170px;
+        }
+
+        h1 {
+            font-weight: bold;
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+
+            @media only screen and (max-width: 768px) {
+                font-size: 1.75rem;
+            }
+        }
+
+        h2 {
+            font-weight: 300;
+            font-size: 1.1rem;
+
+            @media only screen and (max-width: 768px) {
+                font-size: 1.2rem;
+            }
+        }
+
+        &-icons {
+            align-self: flex-end;
+            display: flex;
+            flex-direction: row;
+
+            @media screen and (max-width: 767px) {
+                align-self: center;
+                margin-top: 1rem;
+            }
+        }
+
+        &-icon {
+            background-color: rgba(255, 255, 255, 0.65);
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            text-align: center;
+            line-height: 28px;
+            margin-right: 0.25rem;
+            transition: 0.3s;
+
+            &:hover {
+                background-color: #fafafa;
+                cursor: pointer;
+            }
+        }
+    }
+
+    &-find {
+        text-align: center;
+        padding: 70px 0;
+
+        h2 {
+            font-size: 2.5rem;
+            color: #222222;
+            margin-bottom: 2rem;
+        }
+
+        .row {
+            img {
+                height: 100%;
+                width: auto;
+                max-width: 200px;
+                max-height: 120px;
+                margin-bottom: 1.5rem;
+            }
+        }
+    }
+
+    &-matter {
+        padding: 50px 0;
+        background-color: #f2f2f2;
+
+        &-top {
+            h3 {
+                font-size: 2.5rem;
+                font-weight: 400;
+                color: #515151;
+                margin-bottom: 2.25rem;
+            }
+
+            p {
+                font-size: 1.25rem;
+                font-weight: 300;
+                color: #515151;
+                margin-bottom: 2rem;
+            }
+        }
+
+        &-item {
+            img {
+                max-width: 80%;
+                max-height: 200px;
+                margin-bottom: 1.5rem;
+            }
+
+            h4 {
+                color: #3f3f3f;
+                font-size: 2.3rem;
+                font-weight: 300;
+                // font-weight: bold;
+                margin-bottom: 1.5rem;
+            }
+
+            p {
+                color: rgb(111, 121, 132);
+                font-size: 1.3rem;
+                font-weight: 300;
+            }
+        }
+    }
+
+    &-footer {
+        text-align: center;
+        background-color: #cdcdcd;
+        padding: 70px 0;
+
+        .row {
+            img {
+                width: 100%;
+                max-width: 300px;
+                margin: auto;
+                margin-bottom: 1rem;
+            }
+
+            h3 {
+                color: #222222;
+                font-size: 1.75rem;
+                margin-bottom: 1rem;
+            }
+
+            ul {
+                padding: 0;
+                margin: 0;
+                list-style: none;
+                text-align: left;
+                width: max-content;
+                max-width: 90vw;
+                margin: auto;
+                margin-left: 1rem;
+                font-size: 0.85rem;
+
+                li {
+                    margin: 0.5rem 0;
+
+                    &:before {
+                        content: '';
+                        background: url(../../images/arrow.jpg);
+                        width: 20px;
+                        float: left;
+                        height: 20px;
+                        position: relative;
+                        z-index: 9;
+                        background-size: 100% 100%;
+                        margin-right: 15px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.no-background {
+    background-image: url('./../../images/partner-with-turon-bottom.jpg');
+    background-repeat: no-repeat;
+    min-width: 100%;
+    min-height: 100vh;
+    background-position: 0 0;
+    background-size: 100% auto;
+    color: white;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+}
+
+.color-white {
+    h3,
+    p {
+        color: white;
+    }
+}
+
+.modal {
+    z-index: 9999999 !important;
+    padding-left: 0px !important;
+}

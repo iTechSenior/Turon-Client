@@ -1,0 +1,1584 @@
+.Welcome-signup {
+    position: absolute;
+    top: 4%;
+    align-content: center;
+    left: 25%;
+    height: 49px;
+    width: 252px;
+    font-family: 'Open Sans';
+    font-size: 36px;
+    font-weight: 600;
+    color: #6a00b1;
+    text-align: center;
+}
+
+.cardoutline-SignUp {
+    background-color: white;
+    position: absolute;
+    top: 22.7%;
+    left: 35%;
+    height: 75%;
+    width: 40em;
+    opacity: 100;
+    box-shadow: 0px 2px 8px #888888;
+}
+
+.Signup-university {
+    position: absolute;
+    top: 16.47%;
+    left: 14%;
+    height: 7%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.FindTutor {
+    position: absolute;
+    top: 17.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.FindTutor1 {
+    position: absolute;
+    top: 25.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.FindTutor2 {
+    position: absolute;
+    top: 34.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.findbutton {
+    position: absolute;
+    top: 43.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    background-color: #6a00b1;
+    color: white;
+    /*border: 2px solid #6a00b1;*/
+    border-radius: 9px;
+}
+
+.Or {
+    position: absolute;
+    top: 52.47%;
+    left: 30%;
+    height: 7%;
+}
+
+.HighSchool {
+    position: absolute;
+    top: 61.47%;
+    left: 30%;
+    height: 7%;
+}
+
+.FindTutor3 {
+    position: absolute;
+    top: 71.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.FindTutor4 {
+    position: absolute;
+    top: 80.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.findbutton2 {
+    position: absolute;
+    top: 89.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    background-color: #6a00b1;
+    color: white;
+    /*border: 2px solid #6a00b1;*/
+    border-radius: 9px;
+}
+.Signup-firstName {
+    position: absolute;
+    top: 25%;
+    left: 14%;
+    height: 7%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.Signup-lastName {
+    position: absolute;
+    top: 33.5%;
+    left: 14%;
+    height: 7%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.Signup-email {
+    position: absolute;
+    top: 42%;
+    left: 14%;
+    height: 7%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.Signup-password {
+    position: absolute;
+    top: 51%;
+    left: 14%;
+    height: 7%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.Signup-confirm-password {
+    position: absolute;
+    top: 60%;
+    left: 14%;
+    height: 7%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.Signup-Zipcode {
+    position: absolute;
+    top: 69%;
+    left: 14%;
+    height: 7%;
+    width: 70.63%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.bgImg {
+    /*background-image: url("https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tidningenbalans.se%2Fwp-content%2Fthemes%2Fbalans%2Flib%2Ftimthumb.php%3Fsrc%3Dhttps%253A%252F%252Fwww.tidningenbalans.se%252F%252Fwp-content%252Fuploads%252F2017%252F10%252Fdebatt_per_johansson_utbildningsplattform-e1508423644867.jpg%26w%3D728%26h%3D380%26zc%3D1%26q%3D75%26a%3Dc%26fbclid%3DIwAR0E2KSbccHy1pTaxRzs5bb3_bz8ykhBxnP0m4J39NGlHwvyQH5n2FR_pPc&h=AT35wJjj74HTWNnCSSsDIxATE5RkM4WIyOlK2TamJ4JjHbik9NfTB1Hvz7miynZgqYWlqQjpRIs7E6lccA0C4POXaGfF1EPYYNXtGbWFVkLHfZU3MQwHsy0vdI0ShbwhnszvyA");*/
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    /*z-index: -1;*/
+    background-size: 100% 100%;
+}
+
+.bgImg2 {
+    /*background-image: url("https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tidningenbalans.se%2Fwp-content%2Fthemes%2Fbalans%2Flib%2Ftimthumb.php%3Fsrc%3Dhttps%253A%252F%252Fwww.tidningenbalans.se%252F%252Fwp-content%252Fuploads%252F2017%252F10%252Fdebatt_per_johansson_utbildningsplattform-e1508423644867.jpg%26w%3D728%26h%3D380%26zc%3D1%26q%3D75%26a%3Dc%26fbclid%3DIwAR0E2KSbccHy1pTaxRzs5bb3_bz8ykhBxnP0m4J39NGlHwvyQH5n2FR_pPc&h=AT35wJjj74HTWNnCSSsDIxATE5RkM4WIyOlK2TamJ4JjHbik9NfTB1Hvz7miynZgqYWlqQjpRIs7E6lccA0C4POXaGfF1EPYYNXtGbWFVkLHfZU3MQwHsy0vdI0ShbwhnszvyA");*/
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -3;
+    background-size: 100% 100%;
+}
+
+.bgImgHome {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+@media only screen and (min-height: 400px), only screen and (min-width: 400px) {
+    .cardoutline {
+        background-color: white;
+        position: absolute;
+        top: 24.7%;
+        left: 40%;
+        height: 30em;
+        width: 25em;
+        opacity: 100;
+        box-shadow: 0px 2px 8px #888888;
+    }
+}
+@media only screen and (max-height: 400px), only screen and (max-width: 400px) {
+    .cardoutline {
+        background-color: white;
+        position: absolute;
+        top: 17.7%;
+        left: 2.5%;
+        height: 30em;
+        width: 25em;
+        opacity: 100;
+        box-shadow: 0px 2px 8px #888888;
+    }
+}
+
+.real-signup-btn {
+    position: absolute;
+    top: 78%;
+    left: 17.5%;
+    height: 8%;
+    width: 65%;
+    background-color: #6a00b1;
+    color: white;
+    /*border: 2px solid #6a00b1;*/
+    border-radius: 9px;
+}
+
+.Welcome {
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    height: 49px;
+    width: 252px;
+    font-family: 'Open Sans';
+    font-size: 36px;
+    font-weight: 600;
+    color: #6a00b1;
+    text-align: center;
+}
+
+.emailbox {
+    position: absolute;
+    top: 115px;
+    left: 35px;
+    height: 50px;
+    width: 291px;
+    padding-left: 10px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.passwordbox {
+    position: absolute;
+    top: 200px;
+    left: 35px;
+    height: 50px;
+    width: 291px;
+    padding-left: 10px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.Login-btn {
+    position: absolute;
+    top: 290px;
+    left: 90px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid #6a00b1;
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: #6a00b1;
+}
+
+.New-User-btn {
+    position: absolute;
+    top: 350px;
+    left: 80px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 9px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: 600;
+    color: #6a00b1;
+}
+
+.Home-Signup-btn {
+    position: absolute;
+    top: 270px;
+    left: 80px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Home-Login-btn {
+    position: absolute;
+    top: 340px;
+    left: 80px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Logo-Welcome {
+    position: absolute;
+    top: 30px;
+    left: 90px;
+    height: 140px;
+    width: 150px;
+}
+.Home-project-name {
+    position: absolute;
+    top: 180px;
+    left: 30px;
+    height: 140px;
+    width: 90%;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+    text-align: center;
+}
+
+.Topbar-userhome {
+    position: absolute;
+    top: 0%;
+    left: 15%;
+    height: 7%;
+    width: 89.58%;
+    background-color: rgba(22, 117, 209, 1);
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.5);
+}
+
+.Topbar-sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0%;
+    left: 0;
+    background-color: orange;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.Home-My-City {
+    position: absolute;
+    top: 250px;
+    left: 10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Home-DashBoard {
+    position: absolute;
+    top: 320px;
+    left: 10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Home-IOT-Management {
+    position: absolute;
+    top: 390px;
+    left: 10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+.Home-Energy-Usage {
+    position: absolute;
+    top: 460px;
+    left: 10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Home-Energy-Analysis {
+    position: absolute;
+    top: 530px;
+    left: 10px;
+    height: 50px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+.Topbar-userhome-title {
+    position: absolute;
+    top: 5px;
+    left: 190px;
+    width: 90%;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: whitesmoke;
+    text-align: center;
+    z-index: 1;
+}
+
+.Home-Device-form {
+    position: absolute;
+    top: 100px;
+    left: 250px;
+    width: 36%;
+    font-family: 'Open Sans';
+    font-weight: 600;
+}
+.Street_Name {
+    font-family: 'Open Sans';
+    font-size: 19px;
+    font-weight: 600;
+    color: orange;
+    text-align: center;
+}
+.Device-details {
+    position: absolute;
+    top: 55px;
+    left: 250px;
+    width: 45%;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.Device-search-btn {
+    position: absolute;
+    top: 340px;
+    left: 250px;
+    height: 40px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(22, 117, 209, 1);
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(22, 117, 209, 1);
+}
+
+.Device-info-table {
+    position: absolute;
+    top: 400px;
+    left: 250px;
+}
+
+.Device-temperature-btn {
+    position: absolute;
+    top: 120px;
+    left: 800px;
+    height: 40px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid red;
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 600;
+    color: red;
+}
+.Device-Humidity-btn {
+    position: absolute;
+    top: 120px;
+    left: 1000px;
+    height: 40px;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid orangered;
+    border-radius: 9px;
+    font-family: 'Open Sans';
+    font-size: 14px;
+    font-weight: 600;
+    color: orangered;
+}
+
+.temperature-data-logo {
+    position: absolute;
+    top: 190px;
+    left: 800px;
+    height: 180px;
+    width: 100px;
+}
+.Humidity-data-logo {
+    position: absolute;
+    top: 190px;
+    left: 1000px;
+    height: 190px;
+    width: 140px;
+}
+.temperature-data {
+    position: absolute;
+    top: 200px;
+    left: 620px;
+    width: 45%;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    color: red;
+    text-align: center;
+}
+.Humidity-data {
+    position: absolute;
+    top: 200px;
+    left: 820px;
+    width: 45%;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    color: dodgerblue;
+    text-align: center;
+}
+
+/* Home Page */
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+@media only screen and (max-height: 500px) {
+    .top-left {
+        position: absolute;
+        top: 2%;
+        left: 5%;
+    }
+}
+@media only screen and (min-height: 500px) {
+    .top-left {
+        position: absolute;
+        top: 2%;
+        left: 5%;
+    }
+}
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    color: white;
+    margin-right: 11%;
+}
+.top-rightT {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    color: white;
+}
+.home {
+    min-height: 1000px;
+}
+
+@media only screen and (max-height: 500px), only screen and (max-width: 500px) {
+    .centered {
+        position: absolute;
+        text-align: center;
+        top: 20%;
+        left: 25%;
+        width: 50%;
+    }
+    .centeredTwo {
+        position: absolute;
+        text-align: center;
+        top: 111%;
+        left: 25%;
+        transform: translate(0%, -100%);
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 500px) and (min-height: 500px) {
+    .centered {
+        position: absolute;
+        text-align: center;
+        top: 30%;
+        left: 25%;
+        width: 50%;
+    }
+    .centeredTwo {
+        position: absolute;
+        text-align: center;
+        top: 111%;
+        left: 25%;
+        transform: translate(0%, -100%);
+        width: 50%;
+    }
+}
+
+.findTutor {
+    padding: 10px 20px;
+    background-color: #6a00b1;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 70%);
+    margin-bottom: 3%;
+    margin-top: 15%;
+}
+.top-right a {
+    color: white;
+}
+
+.top-rightT a {
+    color: white;
+}
+
+.navbar a {
+    font-family: 'Roboto', sans-serif;
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    background: #007cd6;
+    color: white;
+}
+.header {
+    text-align: center;
+    margin-bottom: -5px;
+}
+.headImg {
+    margin-top: 0px;
+    width: 100%;
+    height: 50%;
+}
+
+.bookIcon {
+    width: 40%;
+    height: 40%;
+}
+.centered-text {
+    position: absolute;
+    top: 30%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-height: 500px), only screen and (max-width: 500px) {
+    .slogan {
+        position: relative;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 25px;
+        font-style: oblique;
+        margin-bottom: 3%;
+        width: 100%;
+        height: 100%;
+    }
+    .slogan2 {
+        position: relative;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 15px;
+        font-style: italic;
+        margin-bottom: 3%;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media only screen and (min-height: 500px) and (min-width: 500px) {
+    .slogan {
+        position: relative;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 32px;
+        font-style: oblique;
+        margin-bottom: 3%;
+        width: 100%;
+        height: 100%;
+    }
+    .slogan2 {
+        position: relative;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 22px;
+        font-style: italic;
+        margin-bottom: 3%;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+/**
+    .slogan {
+      text-align: center;
+      transform: translate(0, 50);
+      font-family: "Roboto", sans-serif;
+      color: white;
+      font-size: 40px;
+      font-style: oblique;
+      margin-bottom: 3%;
+    }
+    .slogan2 {
+      font-family: "Roboto", sans-serif;
+      color: white;
+      font-size: 20px;
+      font-style: italic;
+      margin-bottom: 3%;
+    }
+    **/
+.startButton {
+    font-family: 'Roboto', sans-serif;
+    background-color: #6a00b1;
+    color: white;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 24px;
+}
+.startButton2 {
+    font-family: 'Roboto', sans-serif;
+    background-color: #6a00b1;
+    color: white;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 24px;
+}
+.startButton:hover {
+    background-color: #007cd6;
+}
+.startButton2:hover {
+    background-color: #007cd6;
+}
+
+.footer {
+    background-color: #6a00b1;
+    padding: 1px;
+    margin-top: 0;
+}
+.aboutHead {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    margin-left: 5%;
+    color: white;
+}
+.circle {
+    height: 715px;
+    width: 715px;
+    background-color: #6b7e7e;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-height: 500px), only screen and (max-width: 500px) {
+    .findATutor {
+        position: relative;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: black;
+        font-size: 25px;
+        font-style: oblique;
+        margin-bottom: -3%;
+    }
+}
+@media only screen and (min-height: 500px) and (min-width: 500px) {
+    .findATutor {
+        position: relative;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: black;
+        font-size: 40px;
+        font-style: oblique;
+        margin-bottom: -3%;
+    }
+}
+
+/**
+    .findATutor {
+      position: absolute;
+      text-align: center;
+      font-family: "Roboto", sans-serif;
+      color: black;
+      font-size: 30px;
+      margin-left: 40%;
+      font-style: oblique;
+      margin-bottom: 5%;
+      padding: 25px 40px;
+      transform: translate(0%, 20%);
+      margin-top: 60%;
+    }
+    **/
+.Location {
+    position: absolute;
+    top: 131%;
+    left: 14%;
+    height: 9%;
+    width: 10%;
+}
+.OnDemand {
+    position: absolute;
+    top: 130%;
+    left: 46%;
+    height: 9%;
+    width: 10%;
+}
+.fees {
+    position: absolute;
+    top: 130%;
+    left: 76%;
+    height: 15%;
+    width: 10%;
+}
+
+@media only screen and (max-height: 500px), only screen and (max-width: 500px) {
+    .Nearby {
+        position: absolute;
+        top: 150%;
+        left: 14%;
+        height: 9%;
+        width: 10%;
+        font-family: 'sans-serif';
+        font-size: 15px;
+    }
+    .Learn {
+        position: absolute;
+        top: 150%;
+        left: 41.5%;
+        height: 9%;
+        width: 20%;
+        font-family: 'sans-serif';
+        font-size: 15px;
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 15px;
+    }
+    .Learn2 {
+        position: absolute;
+        top: 153.5%;
+        left: 39%;
+        height: 9%;
+        width: 25%;
+        text-align: center;
+        font-family: 'sans-serif';
+        font-size: 15px;
+    }
+    .FreeAnd {
+        position: absolute;
+        top: 150%;
+        left: 70%;
+        height: 15%;
+        width: 25%;
+        text-align: center;
+        font-family: 'sans-serif';
+        font-size: 15px;
+    }
+}
+@media only screen and (min-width: 500px) and (min-height: 500px) {
+    .Nearby {
+        position: absolute;
+        top: 150%;
+        left: 14%;
+        height: 9%;
+        width: 10%;
+        text-align: center;
+        font-family: 'sans-serif';
+        font-size: 20px;
+    }
+    .Learn {
+        position: absolute;
+        top: 150%;
+        left: 41%;
+        height: 9%;
+        width: 20%;
+        text-align: center;
+        font-family: 'sans-serif';
+        font-size: 20px;
+    }
+
+    .Learn2 {
+        position: absolute;
+        top: 153.5%;
+        left: 41%;
+        height: 9%;
+        width: 20%;
+        text-align: center;
+        font-family: 'sans-serif';
+        font-size: 20px;
+    }
+    .FreeAnd {
+        position: absolute;
+        top: 150%;
+        left: 73.7%;
+        height: 15%;
+        width: 15%;
+        text-align: center;
+        font-family: 'sans-serif';
+        font-size: 20px;
+    }
+}
+.Footer-dummy {
+    position: absolute;
+    top: 172%;
+    background-color: #cdcdcd;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.Footer-dummy2 {
+    position: absolute;
+    top: 0%;
+    background-color: rgba(249, 249, 249, 1);
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.Footer-dummy3 {
+    position: absolute;
+    top: 0%;
+    background-color: white;
+    width: 100%;
+    height: 16%;
+    z-index: -1;
+}
+
+.studTut {
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left: 25%;
+    width: 50%;
+}
+
+.LibraryImg {
+    position: absolute;
+    top: 180%;
+    margin-left: 10%;
+    height: 300px;
+    width: 500px;
+    margin-bottom: 3%;
+    /*z-index: +1;*/
+}
+.TutorImg {
+    position: absolute;
+    top: 180%;
+    margin-left: 60%;
+    height: 300px;
+    width: 500px;
+    margin-bottom: 3%;
+    /*z-index: +1;*/
+}
+
+@media only screen and (max-height: 500px), only screen and (max-width: 500px) {
+    .ForStuds {
+        position: absolute;
+        top: 220%;
+        margin-left: 15%;
+        font-family: 'sans-serif';
+        font-size: 25px;
+        height: 15%;
+        width: 30%;
+        margin-top: 0%;
+    }
+}
+@media only screen and (min-height: 500px) and (min-width: 500px) {
+    .ForStuds {
+        position: absolute;
+        top: 220%;
+        margin-left: 15%;
+        font-family: 'sans-serif';
+        font-size: 35px;
+        height: 15%;
+        width: 30%;
+        margin-top: 0%;
+    }
+}
+
+@media only screen and (max-height: 500px), only screen and (max-width: 500px) {
+    .ForTutor {
+        position: absolute;
+        top: 215%;
+        margin-left: 70%;
+        font-family: 'sans-serif';
+        font-size: 25px;
+        height: 15%;
+        width: 30%;
+    }
+}
+@media only screen and (min-height: 500px) and (min-width: 500px) {
+    .ForTutor {
+        position: absolute;
+        top: 217%;
+        margin-left: 70%;
+        font-family: 'sans-serif';
+        font-size: 35px;
+        height: 15%;
+        width: 30%;
+    }
+}
+
+.Students-points {
+    position: absolute;
+    top: 230%;
+    margin-left: 15%;
+    width: 45%;
+}
+.tutors-points {
+    position: absolute;
+    top: 230%;
+    margin-left: 70%;
+    width: 20%;
+}
+
+.container-Home {
+    background-color: #6a00b1;
+    /*background: #35424a;*/
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 50px;
+    /*border-bottom: #e8491d 3px solid;*/
+}
+
+@media only screen and (max-height: 600px), only screen and (max-width: 600px) {
+    .topTexts {
+        position: absolute;
+        top: 5%;
+        left: 70%;
+    }
+
+    .Home-Login {
+        position: relative;
+        font-size: 10px;
+        color: white;
+        width: 5%;
+        height: 5%;
+        left: -10%;
+    }
+    .Home-Login:hover {
+        color: orangered;
+        font-size: large;
+    }
+    .Home-Tutor {
+        position: relative;
+        font-size: 10px;
+        color: white;
+        width: 30%;
+        height: 10%;
+        left: 0%;
+    }
+    .Home-Tutor:hover {
+        color: orangered;
+        font-size: large;
+    }
+}
+
+@media only screen and (min-height: 600px) and (min-width: 600px) {
+    .topTexts {
+        position: absolute;
+        top: 5%;
+        left: 80%;
+    }
+    .tutStuSec {
+        background-color: grey;
+    }
+    .Home-Login {
+        position: relative;
+        font-size: 15px;
+        color: white;
+        width: 5%;
+        height: 5%;
+        left: 5%;
+    }
+    .Home-Login:hover {
+        color: orangered;
+        font-size: large;
+    }
+    .Home-Tutor {
+        position: relative;
+        font-size: 15px;
+        color: white;
+        width: 15%;
+        height: 5%;
+        left: 20%;
+    }
+    .Home-Tutor:hover {
+        color: orangered;
+        font-size: large;
+    }
+}
+
+.Turon-UserHome {
+    top: 5%;
+    margin-left: 5%;
+}
+
+.container-ViewTutor {
+    transform: translate(0%, 20%);
+    width: 90%;
+    margin: auto;
+    background-color: white;
+    padding: 90px;
+}
+
+#boxes {
+    margin-top: -4%;
+    /*float:left;*/
+    position: relative;
+}
+
+#boxes .box {
+    float: left;
+    width: 50%;
+
+    padding: 10px;
+}
+
+/* #boxes input {
+} */
+
+.UserHome-university {
+    height: 30px;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.UserHome-Submit-btn {
+    padding: 10px 20px;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 35%;
+    width: 30%;
+    height: 7%;
+    border: none;
+    background-color: #6a00b1;
+    color: white;
+    font-size: 20px;
+}
+
+/*FindTutor*/
+
+.FindTutor {
+    position: absolute;
+    top: 17.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.FindTutor1 {
+    position: absolute;
+    top: 25.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.FindTutor2 {
+    position: absolute;
+    top: 34.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.findbutton {
+    position: absolute;
+    top: 43.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    background-color: #6a00b1;
+    color: white;
+    /*border: 2px solid #6a00b1;*/
+    border-radius: 9px;
+}
+
+.Or {
+    position: absolute;
+    top: 52.47%;
+    left: 30%;
+    height: 7%;
+}
+
+.HighSchool {
+    position: absolute;
+    top: 52.47%;
+    left: 36%;
+    height: 7%;
+}
+
+.FindTutor3 {
+    position: absolute;
+    top: 62.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+.FindTutor4 {
+    position: absolute;
+    top: 71.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    padding-left: 3%;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(155, 155, 155, 1);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.15);
+}
+.findbutton2 {
+    position: absolute;
+    top: 80.47%;
+    left: 30%;
+    height: 7%;
+    width: 35%;
+    background-color: #6a00b1;
+    color: white;
+    /*border: 2px solid #6a00b1;*/
+    border-radius: 9px;
+}
+
+.navbars {
+    overflow: hidden;
+    background-color: #6a00b1;
+    top: 0;
+    width: 100%;
+}
+
+.navbars a {
+    font-family: 'Roboto', sans-serif;
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 43%;
+}
+
+.navbars a:hover {
+    background: #007cd6;
+    color: white;
+}
+
+.slogan9 {
+    margin-left: 30%;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 40px;
+    margin-top: -12%;
+}
+.slogan9a {
+    margin-left: 30%;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.slogan9b {
+    margin-left: 30%;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.school {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.priceName {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.contactInfo {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-left: 55%;
+    transform: translate(0%, -140%);
+}
+
+.cont {
+    margin-left: 70%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #6a00b1;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.contT {
+    margin-left: 0%;
+
+    font-family: 'Roboto', sans-serif;
+    background-color: #6a00b1;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.cont:hover {
+    background-color: #007cd6;
+}
+.contT:hover {
+    background-color: #007cd6;
+}
+
+.courses {
+    margin-left: 10%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bio {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10%;
+    display: block;
+}
+
+.bioSub {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10%;
+    display: block;
+}
+
+@media only screen and (min-height: 600px), only screen and (min-width: 600px) {
+    .week {
+        font-size: 25px;
+        font-family: 'Roboto', sans-serif;
+        margin-left: 10%;
+        display: block;
+    }
+    .bgImg3 {
+        /*background-image: url("https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tidningenbalans.se%2Fwp-content%2Fthemes%2Fbalans%2Flib%2Ftimthumb.php%3Fsrc%3Dhttps%253A%252F%252Fwww.tidningenbalans.se%252F%252Fwp-content%252Fuploads%252F2017%252F10%252Fdebatt_per_johansson_utbildningsplattform-e1508423644867.jpg%26w%3D728%26h%3D380%26zc%3D1%26q%3D75%26a%3Dc%26fbclid%3DIwAR0E2KSbccHy1pTaxRzs5bb3_bz8ykhBxnP0m4J39NGlHwvyQH5n2FR_pPc&h=AT35wJjj74HTWNnCSSsDIxATE5RkM4WIyOlK2TamJ4JjHbik9NfTB1Hvz7miynZgqYWlqQjpRIs7E6lccA0C4POXaGfF1EPYYNXtGbWFVkLHfZU3MQwHsy0vdI0ShbwhnszvyA");*/
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        height: 300%;
+        width: 100%;
+        /*z-index: -1;*/
+        background-size: 200% 100%;
+        min-height: 200px;
+    }
+
+    .container-UserHome {
+        width: 90%;
+        height: auto;
+        margin: auto;
+        overflow: hidden;
+        background-color: white;
+        padding: 25px;
+    }
+}
+
+@media only screen and (max-height: 600px), only screen and (max-width: 600px) {
+    .week {
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+        margin-left: 10%;
+        display: block;
+    }
+    .bgImg3 {
+        /*background-image: url("https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tidningenbalans.se%2Fwp-content%2Fthemes%2Fbalans%2Flib%2Ftimthumb.php%3Fsrc%3Dhttps%253A%252F%252Fwww.tidningenbalans.se%252F%252Fwp-content%252Fuploads%252F2017%252F10%252Fdebatt_per_johansson_utbildningsplattform-e1508423644867.jpg%26w%3D728%26h%3D380%26zc%3D1%26q%3D75%26a%3Dc%26fbclid%3DIwAR0E2KSbccHy1pTaxRzs5bb3_bz8ykhBxnP0m4J39NGlHwvyQH5n2FR_pPc&h=AT35wJjj74HTWNnCSSsDIxATE5RkM4WIyOlK2TamJ4JjHbik9NfTB1Hvz7miynZgqYWlqQjpRIs7E6lccA0C4POXaGfF1EPYYNXtGbWFVkLHfZU3MQwHsy0vdI0ShbwhnszvyA");*/
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        height: 400%;
+        width: 100%;
+        /*z-index: -1;*/
+        background-size: 200% 100%;
+        min-height: 200px;
+    }
+
+    .container-UserHome {
+        margin: auto;
+        overflow: hidden;
+        background-color: white;
+        padding: 25px;
+    }
+
+    .UHText {
+        font-size: 25px;
+    }
+}
+
+.bio textarea {
+    margin-left: 10%;
+}
+.empty {
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.deleteAccount {
+    transform: translate(0%, 120%);
+    margin-left: 73%;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.deleteAccount:hover {
+    background-color: #007cd6;
+}
+
+.userInfo {
+    margin-top: -30%;
+}
+
+@media only screen and (max-height: 600px) {
+    .moveDownRight {
+        margin-top: -30%;
+        margin-left: 50%;
+    }
+}
+
+@media only screen and (min-height: 600px) {
+    .moveDownRight {
+        margin-top: -20%;
+        margin-left: 30%;
+    }
+}
+.moveDown {
+    margin-top: 20%;
+    margin-left: 5%;
+}
+
+/* ViewTutor*/
+.contactInfo2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: -2%;
+}
+
+.contactInfo3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: -16%;
+}
+
+.avail {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-left: 55%;
+    transform: translate(0%, -30%);
+}
+
+.course8a {
+    margin-left: 10%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}

@@ -1,0 +1,132 @@
+.tutor-profile{
+    color: black;
+
+    &-courses{
+        color: darkslategray;
+        margin-top: 1rem;
+
+        ul{
+            margin: 0;
+        }
+    }
+
+    &-reviews, &-courses{
+        margin: 1rem 2.5rem 0;
+
+        @media(max-width: 575px){
+            margin: 0;
+        }
+
+        h3{
+            font-size: 2rem;
+            color: darkslateblue;
+        }
+
+        .card{
+            color: darkslategray;
+        }
+
+        h6{
+            font-size: 1rem;
+            color: black;
+        }
+    }
+
+    .card{
+        &-top{
+            display: flex;
+            justify-content: flex-start;
+
+            @media(max-width: 575px){
+                flex-direction: column;
+                justify-content: center;
+                text-align: center;
+
+                .ml-auto{
+                    margin: auto!important;
+                }
+            }
+
+            img{
+                width: 150px;
+                height: 150px;
+                min-width: 150px;
+                min-height: 150px;
+                max-width: 150px;
+                max-height: 150px;
+                border-radius: 50%;
+                margin-right: 1rem;
+
+                @media(max-width: 575px){
+                    margin: auto;
+                }
+            }
+
+            h1{
+                margin-top: .5rem;
+                color: darkslateblue;
+                font-size: 1.75rem;
+            }
+
+            p{
+                font-size: 1rem;
+                
+                &:last-child{
+                    color: darkslategray;
+                }
+            }
+        }
+    }
+}
+
+.table-courses{
+    th{
+        border: none!important;
+    }
+
+    thead{
+        @media (max-width: 767px){
+            display: none;
+        }
+    }
+
+    tbody{
+        td{
+            &:nth-child(1){
+                width: 30%;
+            }
+
+            &:nth-child(2){
+                width: 70%;
+            }
+        }
+
+        @media (max-width: 767px){
+            tr{
+                display: flex;
+                flex-direction: column;
+                border: none;
+
+                td{
+                    vertical-align: middle;
+                }
+            }
+
+            td{
+                border: none;
+
+                &:nth-child(1){
+                    width: 100%;
+                    font-size: 1.15rem;
+                    font-weight: bold;
+                    padding-bottom: 0;
+                }
+
+                &:nth-child(2){
+                    width: 100%;
+                    padding-left: 2rem;
+                }
+            }
+        }
+    }
+}

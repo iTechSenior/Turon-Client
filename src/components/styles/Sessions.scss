@@ -1,0 +1,17 @@
+.sessions{
+    color: black;
+
+    &-new{
+        max-width: max-content;
+
+        form{
+            min-width: 400px;
+            max-width: 400px;
+
+            @media (max-width: 400px){
+                min-width: 85vw;
+                max-width: unset;
+            }
+        }
+    }
+}
